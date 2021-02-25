@@ -20,8 +20,8 @@ Skodorovs Vlads
 Smirnovs Volodars
 10 	
 Verþanovskis Marks
-11 	
-Volkova Veronika
+print(5+5**3)
+#Volkova Veronika
 12 	
 Zariòð Roberts
 13 	
