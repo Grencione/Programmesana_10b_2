@@ -24,5 +24,5 @@ Verþanovskis Marks
 Volkova Veronika
 12 	
 Zariòð Roberts
-13 	
-Þaravins Kirills
+print(5+5)
+#Þaravins Kirills
