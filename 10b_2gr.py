@@ -4,8 +4,8 @@ print(5+6**2)
 Kudrjavceva Veronika
 2 	
 Melnic Ana
-3 	
-Mihailovs Alekss
+print(3+11**2)	
+#Mihailovs Alekss
 4 	
 Orlova Katerina
 5 	
