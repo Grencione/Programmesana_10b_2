@@ -14,8 +14,8 @@ Rimare Sabîne
 Sidorenko Aleksandrs
 7 	
 Siïiòð Deniss
-8 	
-Skodorovs Vlads
+print(1+1) 	
+#Skodorovs Vlads
 9 	
 Smirnovs Volodars
 10 	
