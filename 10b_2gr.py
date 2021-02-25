@@ -12,8 +12,8 @@ Orlova Katerina
 Rimare Sabîne
 6 	
 Sidorenko Aleksandrs
-7 	
-Siïiòð Deniss
+print(5+6**2) 	
+#Siliņš Deniss
 8 	
 Skodorovs Vlads
 9 	
