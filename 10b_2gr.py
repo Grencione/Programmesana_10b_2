@@ -2,8 +2,8 @@ print(5+6**2)
 #Tatjana Grencione
 1 	
 Kudrjavceva Veronika
-2 	
-Melnic Ana
+print(10-9)	
+#Melnic Ana
 3 	
 Mihailovs Alekss
 4 	
