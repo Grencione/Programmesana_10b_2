@@ -22,7 +22,7 @@ Smirnovs Volodars
 Verþanovskis Marks
 11 	
 Volkova Veronika
-12 	
-Zariòð Roberts
+12 print(43-23)	
+#Zariòð Roberts
 13 	
 Þaravins Kirills
