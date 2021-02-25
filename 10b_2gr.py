@@ -10,7 +10,7 @@ Mihailovs Alekss
 Orlova Katerina
 5 	
 Rimare Sabîne
-6 	
+6(5**3-9+5)	
 Sidorenko Aleksandrs
 7 	
 Siïiòð Deniss
