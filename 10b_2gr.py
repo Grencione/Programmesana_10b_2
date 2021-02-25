@@ -8,7 +8,7 @@ Melnic Ana
 Mihailovs Alekss
 4 	
 Orlova Katerina
-5 	
+5
 Rimare Sabîne
 6 	
 Sidorenko Aleksandrs
