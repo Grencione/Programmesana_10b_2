@@ -1,4 +1,4 @@
-print(5+6**3+25+33)
+print(5+6**3+25+33+66)
 #Tatjana Grencione
 1 	
 Kudrjavceva Veronika
